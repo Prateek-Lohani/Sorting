@@ -9,7 +9,5 @@ def selection_sort(array):
     return print(array)         
         
     
-
 arr=[2, 3, 4, 10, 40, 36, 1, 54, 45, 5]
-
 selection_sort(arr)
